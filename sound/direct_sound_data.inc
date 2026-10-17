@@ -6867,3 +6867,35 @@ DirectSoundWaveData_sd90_classical_whistle::
 	.align 2
 DirectSoundWaveData_sd90_enhanced_delay_shaku::
 	.incbin "sound/direct_sound_samples/sd90_enhanced_delay_shaku.bin"
+
+	.align 2
+DirectSoundWaveData_m3_powerchord::
+	.incbin "sound/direct_sound_samples/m3_powerchord.bin"
+
+	.align 2
+DirectSoundWaveData_pickslide::
+	.incbin "sound/direct_sound_samples/pickslide.bin"
+
+	.align 2
+DirectSoundWaveData_vowel_lead_oi::
+	.incbin "sound/direct_sound_samples/vowel_lead_oi.bin"
+
+	.align 2
+DirectSoundWaveData_vowel_lead_wah::
+	.incbin "sound/direct_sound_samples/vowel_lead_wah.bin"
+
+	.align 2
+DirectSoundWaveData_vowel_lead_yow::
+	.incbin "sound/direct_sound_samples/vowel_lead_yow.bin"
+
+	.align 2
+DirectSoundWaveData_vowel_lead_yuh::
+	.incbin "sound/direct_sound_samples/vowel_lead_yuh.bin"
+
+	.align 2
+DirectSoundWaveData_bw_synthlead::
+	.incbin "sound/direct_sound_samples/bw_synthlead.bin"
+
+	.align 2
+DirectSoundWaveData_kcc_synth_brass::
+	.incbin "sound/direct_sound_samples/kcc_synth_brass.bin"

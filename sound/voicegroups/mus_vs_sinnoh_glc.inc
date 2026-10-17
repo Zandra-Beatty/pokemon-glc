@@ -1,14 +1,14 @@
-voice_group mus_vs_kanto_pwt
-	voice_square_1 60, 0, 0, 2, 0, 0, 15, 0
-	voice_square_1 60, 0, 0, 2, 0, 0, 15, 0
-	voice_square_1 60, 0, 0, 2, 0, 0, 15, 0
-	voice_square_1 60, 0, 0, 2, 0, 0, 15, 0
-	voice_square_1 60, 0, 0, 2, 0, 0, 15, 0
-	voice_square_1 60, 0, 0, 2, 0, 0, 15, 0
-	voice_square_1 60, 0, 0, 2, 0, 0, 15, 0
-	voice_square_1 60, 0, 0, 2, 0, 0, 15, 0
-	voice_square_1 60, 0, 0, 2, 0, 0, 15, 0
-	voice_square_1 60, 0, 0, 2, 0, 0, 15, 0
+voice_group mus_vs_sinnoh_glc
+	voice_directsound 60, 0, DirectSoundWaveData_kcc_synth_brass, 255, 0, 255, 127
+	voice_square_1 60, 0, 0, 2, 0, 1, 4, 1
+	voice_square_1 60, 0, 0, 2, 0, 1, 4, 1
+	voice_directsound 60, 0, Cry_Abra, 255, 0, 255, 127
+	voice_directsound 60, 0, DirectSoundWaveData_bw_synthlead, 255, 0, 255, 127
+	voice_directsound 60, 0, DirectSoundWaveData_sc88pro_slap_bass, 255, 235, 128, 99
+	voice_keysplit voicegroup_trumpet_keysplit, keysplit_trumpet
+	voice_keysplit_all voicegroup_frlg_drumset
+	voice_keysplit voicegroup_french_horn_keysplit, keysplit_french_horn
+	voice_keysplit voicegroup_tuba_keysplit, keysplit_tuba
 	voice_square_1 60, 0, 0, 2, 0, 0, 15, 0
 	voice_square_1 60, 0, 0, 2, 0, 0, 15, 0
 	voice_square_1 60, 0, 0, 2, 0, 0, 15, 0
